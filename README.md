@@ -1,7 +1,7 @@
 # 🌐 Portfolio Website
 
 This is my **personal portfolio website** built using **HTML, CSS, and JavaScript**.  
-It showcases my projects, skills, and contact details. The site is fully responsive and hosted on **GitHub Pages**.
+It showcases my recent projects, skills, and contact details. The site is fully responsive and hosted on **GitHub Pages**.
 
 ---
 
