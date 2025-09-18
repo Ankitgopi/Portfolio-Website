@@ -31,4 +31,4 @@ It showcases my projects, skills, and contact details. The site is fully respons
 If you’d like to connect, feel free to reach out:  
 
 📧 Email: ankitg4402@gamil.com  
-💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ankitgahnoliya/)
+💼 LinkedIn: [Ankit Gahnoliya](https://www.linkedin.com/in/ankitgahnoliya/)
