@@ -30,5 +30,5 @@ It showcases my projects, skills, and contact details. The site is fully respons
 ## 📬 Contact
 If you’d like to connect, feel free to reach out:  
 
-📧 Email: your-email@example.com  
-💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)  
+📧 Email: ankitg4402@gamil.com  
+💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ankitgahnoliya/)
